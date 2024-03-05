@@ -1,18 +1,20 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo:
+      'Mecanismos de seguimiento, control, evaluación y mejora de un proyecto deportivo',
+    descripcionCurso:
+      'En este componente se abordan elementos generales para realizar el seguimiento, control, evaluación y mejora de los proyectos enfocados a las organizaciones del sector deportivo.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
       },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      },
+      // {
+      //   clases: ['banner-principal-decorativo-2'],
+      //   imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      // },
     ],
   },
   menuPrincipal: {
@@ -31,13 +33,38 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Mecanismos de control y evaluación del proyecto',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Control de las actividades del proyecto',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Control de costos del proyecto',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Control del riesgo',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Control de la calidad',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Informes de gestión',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Evaluación del proyecto',
+            hash: 't_1_6',
           },
         ],
       },
@@ -45,13 +72,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Plan de mejora',
         desarrolloContenidos: true,
       },
     ],
@@ -73,11 +94,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
+      // {
+      //   nombreRuta: 'complementario',
+      //   icono: 'far fa-folder-open',
+      //   titulo: 'Material complementario',
+      // },
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -86,7 +107,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CFA04.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -116,18 +137,44 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Actividad',
+      significado:
+        'parte de un proyecto que requiere de tiempo de inicio, tiempo final y recursos determinados. Pueden tener diversos fines, como lo son: administrativas, operativas entre otros que en su conjunto cumplen el plan del proyecto.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Primera fecha de inicio',
+      significado:
+        'es la fecha más temprana en la que se puede iniciar una actividad.',
+    },
+    {
+      termino: 'Última fecha de inicio',
+      significado:
+        'es el inicio más tardío en el que se puede iniciar una actividad dentro del plazo establecido.',
+    },
+    {
+      termino: 'Primera fecha de terminación',
+      significado: 'fecha más temprana en la que puede terminar una actividad.',
+    },
+    {
+      termino: 'Última fecha de terminación',
+      significado:
+        'fecha más tardía en la que puede terminar una actividad dentro del plazo establecido.',
+    },
+    {
+      termino: 'Margen de holgura',
+      significado:
+        'margen de retraso del que dispone una actividad, lo que puede retrasarse en su inicio o final sin que afecte la duración del proyecto.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'IPMA - International Project Management Association. (2006). <em>ICB Competence Baseline Version 3.0.</em> IPMA.',
       link: '',
+    },
+    {
+      referencia:
+        'PMI - Project Management Institute. (2008). <em>Organizational Project Management Maturity Model.</em> Project Management Institute',
     },
   ],
   creditos: [
@@ -142,8 +189,7 @@ export default {
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de Línea de Producción',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
     },
@@ -153,8 +199,7 @@ export default {
         {
           nombre: 'Nombre responsable',
           cargo: 'Nombre del rol',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
     },
@@ -164,26 +209,22 @@ export default {
         {
           nombre: 'Nombre responsable',
           cargo: 'Diseñador de Contenidos Digitales',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Nombre responsable',
           cargo: 'Desarrollador Fullstack',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Nombre',
           cargo: 'Animador y Producción audiovisual',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Nombre',
           cargo: 'Actividad Didáctica',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
     },
@@ -193,27 +234,23 @@ export default {
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
           cargo: 'Validador de Recursos Educativos Digitales',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Jaime Hernan Tejada',
           cargo: 'Validador de Recursos Educativos Digitales',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Margarita Marcela Medrano',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
-        }
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
       ],
     },
   ],
