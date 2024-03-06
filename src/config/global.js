@@ -187,9 +187,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Maria Camila Garcia Santamaria',
+          cargo: 'Líder del equipo',
+          centro: 'Dirección General',
         },
       ],
     },
@@ -197,9 +197,31 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor metodológico y pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+        },
+        {
+          nombre: 'Tatiana Cristina Vargas',
+          cargo: 'Instructor',
+          centro: 'Centro de servicios de salud <br>Regional Antioquia',
+        },
+        {
+          nombre: 'Paola Andrea Quintero Aguilar',
+          cargo: 'Diseñadora instruccional',
+          centro: 'Centro de Gestión Industrial <br>Regional Bogotá',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Revisora metodológica y pedagógica',
+          centro: 'Centro de Diseño y Metrología <br>Regional Distrito Capital',
+        },
+        {
+          nombre: 'José Gabriel Ortiz Abella',
+          cargo: 'Corrector de estilo',
+          centro:
+            'Centro para la Industria de las Artes Gráficas <br>Regional Distrito Capital',
         },
       ],
     },
@@ -207,24 +229,86 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Francisco José Lizcano Reyes',
+          cargo: 'Responsable del Equipo',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Leyson Fabian Castaño Perez',
+          cargo: 'Soporte Organizacional',
+          centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Juan Carlos Tapias Rueda',
+          cargo: 'Diseño Web',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Andrea Paola Botello De la Rosa',
+          cargo: 'Desarrollo Front-end',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+        },
+        {
+          nombre: 'Andres Mauricio Santaella Ochoa',
+          cargo: 'Soporte Front-end',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+        },
+        {
+          nombre: 'Zuleidy Maria Ruiz Torres',
+          cargo: 'Producción Audiovisual',
+          centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Caceres',
+          cargo: 'Producción Audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+        },
+        {
+          nombre: 'Gilberto Junior Rodriguez Rodriguez',
+          cargo: 'Producción Audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+        },
+        {
+          nombre: 'Camilo Andrés Bolaño Rey',
+          cargo: 'Producción Audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+        },
+        {
+          nombre: 'Ludwyng Corzo García',
+          cargo: 'Producción Audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Producción Audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+        },
+        {
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Producción Audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+        },
+        {
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Producción Audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+        },
+        {
+          nombre: 'María Isabel Román Rueda',
+          cargo: 'Validación de Diseño y Contenido',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
         },
       ],
     },
@@ -232,24 +316,9 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Validación y Vinculación en Plataforma LMS',
+          centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
         },
       ],
     },
