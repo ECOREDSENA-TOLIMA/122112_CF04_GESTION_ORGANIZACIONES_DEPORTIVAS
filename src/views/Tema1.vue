@@ -117,7 +117,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Control de las actividades del proyecto</i>
         figure
-          img(src='@/assets/curso/temas/tema1/figura-1.svg', alt='Control de las actividades del proyecto: Actividades a ejecutar en cada fase del proyecto. Duración y recursos estimados para cada actividad. Actividades sucesoras y dependientes al desarrollo de otras.Fechas límites de inicio y terminación de cada actividad.')  
+          img(src='@/assets/curso/temas/tema1/figura-1.svg', alt='En la Figura 1 se presentan los elementos a tener en cuenta para el control de las actividades del proyecto, los cuales incluyen las actividades a ejecutar, la duración y los recursos asignados, las actividades sucesoras, así como las fechas de inicio y fin correspondientes.')  
     
     .row.bg-contenido.py-5
       .col-md-7.mb-4(data-aos="fade-right")
@@ -200,9 +200,9 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-8
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>Control del riesgo</i>
+          p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>Seguimiento de los riesgos</i>
         figure
-          img(src='@/assets/curso/temas/tema1/figura-2.svg', alt='Control del riesgo: Medir el cumplimiento del plan de control de riesgos conforme al tiempo y recursos. Verificar el impacto en el control de riesgos. Identificar la aparición de nuevos riesgos. Establecer un informe sobre el control de riesgos.')
+          img(src='@/assets/curso/temas/tema1/figura-2.svg', alt='En la Figura 2 se presentan los pasos a seguir para el control de riesgos, los cuales incluyen medir, verificar, identificar y establecer.')
 
     p(data-aos="fade") El control de riesgos es fundamental, ya que, en caso de no hacerlo, podrá poner en riesgo el desarrollo del proyecto, generando desde sobrecostos, retrasos hasta la culminación del mismo. 
 
