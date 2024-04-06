@@ -26,7 +26,7 @@
                 img(src='@/assets/curso/temas/tema1/linea1-ico1.svg', alt='')
             .col-md-8
               h5 Medir el progreso hacia el objetivo preestablecido.
-          .row.justify-content-center.align-items-center
+          .row.justify-content-center.align-items-center.text-start
             .col-md-8.mb-4.mb-md-0
               h5 Evaluar lo que se requiere para alcanzar los objetivos.
             .col-md-3.col-8

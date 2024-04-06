@@ -198,30 +198,30 @@ export default {
       autores: [
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor metodológico y pedagógico',
+          cargo: 'Asesor Metodológico y Pedagógico',
           centro:
-            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Tatiana Cristina Vargas',
-          cargo: 'Instructor',
-          centro: 'Centro de servicios de salud <br>Regional Antioquia',
+          cargo: 'Experta Temático',
+          centro: 'Centro de servicios de salud - Regional Antioquia',
         },
         {
           nombre: 'Paola Andrea Quintero Aguilar',
-          cargo: 'Diseñadora instruccional',
-          centro: 'Centro de Gestión Industrial <br>Regional Bogotá',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Centro de Gestión Industrial - Regional Bogotá',
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Revisora metodológica y pedagógica',
-          centro: 'Centro de Diseño y Metrología <br>Regional Distrito Capital',
+          cargo: 'Revisora Metodológica y Pedagógica',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'José Gabriel Ortiz Abella',
-          cargo: 'Corrector de estilo',
+          cargo: 'Corrector de Estilo',
           centro:
-            'Centro para la Industria de las Artes Gráficas <br>Regional Distrito Capital',
+            'Centro para la Industria de las Artes Gráficas - Regional Distrito Capital',
         },
         {
           nombre: 'Gloria Lida Alzate Suarez',
@@ -249,83 +249,83 @@ export default {
           nombre: 'Francisco José Lizcano Reyes',
           cargo: 'Responsable del Equipo',
           centro:
-            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Leyson Fabian Castaño Perez',
           cargo: 'Soporte Organizacional',
-          centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Juan Carlos Tapias Rueda',
           cargo: 'Diseño Web',
           centro:
-            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
           cargo: 'Desarrollo Front-end',
           centro:
-            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Andres Mauricio Santaella Ochoa',
           cargo: 'Soporte Front-end',
           centro:
-            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Zuleidy Maria Ruiz Torres',
           cargo: 'Producción Audiovisual',
-          centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Wilson Andrés Arenales Caceres',
           cargo: 'Producción Audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Gilberto Junior Rodriguez Rodriguez',
           cargo: 'Producción Audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Camilo Andrés Bolaño Rey',
           cargo: 'Producción Audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Ludwyng Corzo García',
           cargo: 'Producción Audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'María Carolina Tamayo López',
           cargo: 'Producción Audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Producción Audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Carmen Alicia Martínez Torres',
           cargo: 'Producción Audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'María Isabel Román Rueda',
           cargo: 'Validación de Diseño y Contenido',
           centro:
-            'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'José Yobani Penagos Mora',
@@ -343,8 +343,8 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          nombre: 'Jorge Eduardo Rueda Peña',
+          cargo: 'Evaluación de Contenidos Inclusivos y Accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
@@ -353,7 +353,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Jorge Bustos Gòmez',
+          nombre: 'Jorge Bustos Gómez',
           cargo: 'Validación de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
