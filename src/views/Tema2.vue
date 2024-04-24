@@ -63,14 +63,14 @@
                 .col-md-2.col-4.mb-4.mb-md-0
                   img.px-md-2(src='@/assets/curso/temas/tema2/tema2-ico2-2.svg', alt='Icono decorativo')
                 .col-md-9
-                  h4 Para identificar las causas se puede utilizar: 5w – 2h
-                  p.mb-0 <b>What (qué):</b> ¿Qué está pasando? 
-                  p.mb-0 <b>When (cuándo):</b> ¿Cuándo se está presentando?
-                  p.mb-0 <b>Where (dónde):</b> ¿Dónde se están viendo los problemas?
-                  p.mb-0 <b>Who (quién):</b> ¿Quién le están sucediendo?
-                  p.mb-0 <b>Why (por qué):</b> ¿Por qué sucede el problema?
-                  p.mb-0 <b>How (cómo):</b> ¿Cómo se diferencia el problema a la situación óptima?
-                  p.mb-0 <b>How much (cuántos):</b> ¿Cuántos problemas se presentan en el tiempo?, ¿cuánto cuesta?
+                  h4 Para identificar las causas se puede utilizar: 5w - 2h
+                  p.mb-0 <b><em> What</em> (qué):</b> ¿Qué está pasando? 
+                  p.mb-0 <b><em>When</em> (cuándo):</b> ¿Cuándo se está presentando?
+                  p.mb-0 <b><em>Where</em> (dónde):</b> ¿Dónde se están viendo los problemas?
+                  p.mb-0 <b><em>Who</em> (quién):</b> ¿Quién le están sucediendo?
+                  p.mb-0 <b><em>Why</em> (por qué):</b> ¿Por qué sucede el problema?
+                  p.mb-0 <b><em>How</em> (cómo):</b> ¿Cómo se diferencia el problema a la situación óptima?
+                  p.mb-0 <b><em>How much</em> (cuántos):</b> ¿Cuántos problemas se presentan en el tiempo?, ¿cuánto cuesta?
               .row.justify-content-center
                 .col-md-2.col-4.mb-4.mb-md-0
                   img.px-md-2(src='@/assets/curso/temas/tema2/tema2-ico2-3.svg', alt='Icono decorativo')
@@ -164,10 +164,10 @@
               h4 Controlar el plan de trabajo
               p Se debe controlar el cumplimiento de las actividades estipuladas conforme a los recursos y tiempo establecido.     
 
-    figure.mb-4(data-aos="fade-down")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ZhwkNEQWqx8" title="Componentes de un plan de mejora" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Componentes de un plan de mejora
+    //- figure.mb-4(data-aos="fade-down")
+    //-   .video
+    //-     iframe(width="560" height="315" src="https://www.youtube.com/embed/ZhwkNEQWqx8" title="Componentes de un plan de mejora" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    //-   figcaption Video: Componentes de un plan de mejora
 
     p.mb-4(data-aos="fade-down-left") Todos los procesos son susceptibles de mejora por más funcionales y exitosos que sean; y para tal fin existen varios métodos en los que el equipo de trabajo identifica los aspectos a mejorar. Uno de los métodos más populares para esta tarea, es la matriz DOFA, que permite establecer fortalezas, debilidades, amenazas y oportunidades. Para entender un poco más, se definirá, explicará su metodología y se realizará ejercicio práctico. 
 
