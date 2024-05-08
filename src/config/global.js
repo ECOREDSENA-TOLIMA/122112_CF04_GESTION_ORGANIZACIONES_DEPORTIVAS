@@ -139,7 +139,7 @@ export default {
     {
       termino: 'Actividad',
       significado:
-        'parte de un proyecto que requiere de tiempo de inicio, tiempo final y recursos determinados. Pueden tener diversos fines, como lo son: administrativas, operativas entre otros que en su conjunto cumplen el plan del proyecto.',
+        'parte de un proyecto que requiere de tiempo de inicio, tiempo final y recursos determinados. Pueden tener diversos fines, como lo son: administrativas, operativas, entre otros, que en su conjunto cumplen el plan del proyecto.',
     },
     {
       termino: 'Primera fecha de inicio',

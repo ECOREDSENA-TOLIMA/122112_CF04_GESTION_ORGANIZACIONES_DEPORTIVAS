@@ -64,7 +64,7 @@
               p ¿Cuál es la fecha de finalización de las actividades?  
 
     
-    p(data-aos="fade") Otro aspecto a considerar será la #[strong periodicidad del control de un proyecto,] la que dependerá de la duración, complejidad y alcance, entre otros. Esta periodicidad podrá ser diaria, semanal, mensual, bimestral, trimestral entre otras frecuencias. 
+    p(data-aos="fade") Otro aspecto a considerar será la #[strong periodicidad del control de un proyecto,] la que dependerá de la duración, complejidad y alcance, entre otros. Esta periodicidad podrá ser diaria, semanal, mensual, bimestral, trimestral, entre otras frecuencias. 
     p.mb-4(data-aos="fade") A continuación, se presentan algunos ejemplos de periodicidad del control en diferentes tipos de proyectos, aunque cabe aclarar que esta la define cada organización según las necesidades del control que se vaya a realizar. 
 
     .row.mb-4
@@ -129,7 +129,7 @@
             | Asignar más recursos para acelerar el desarrollo de una actividad.
           li 
             i.fas.fa-check
-            | Asignar más personas con mayor experiencia o más competente para el desarrollo de una actividad.
+            | Asignar más personas con mayor experiencia o más competentes para el desarrollo de una actividad.
           li 
             i.fas.fa-check
             | Reducir los tiempos y recursos de otra actividad para asignarle a la actividad crítica sin afectar el desarrollo del proyecto.    
@@ -143,12 +143,12 @@
 
     .row.justify-content-center.mb-5
       .col-md-7.col-lg-8.mb-4(data-aos="fade-right")
-        p Se entiende como el #[strong conjunto de procedimientos cuya finalidad se centra en conocer los gastos de las tareas del proyecto y medir las variaciones frente al presupuesto estipulado.]
+        p Se entiende como el #[strong conjunto de procedimientos cuya finalidad se centra en conocer los gastos de las tareas del proyecto y medir las variaciones frente al presupuesto estipulado.] 
           | Para lograr el objetivo de ejecutar el proyecto conforme a los recursos planeados, se deberá controlar que las diferentes actividades del proyecto se ejecuten según lo presupuestado; para tal fin se deben seguir los siguientes pasos:
         ul.lista-ul--color.px-5
           li 
             i.fas.fa-check
-            | Desglosar cada actividad que conforma el proyecto teniendo claro el presupuesto y costos estimados para su desarrollo.
+            | Desglosar cada actividad que conforma el proyecto, teniendo claro el presupuesto y costos estimados para su desarrollo.
           li 
             i.fas.fa-check
             | Medir el progreso del proyecto y verificar el porcentaje de cumplimiento. 
@@ -181,7 +181,7 @@
       .row.justify-content-center.py-4.py-md-5(titulo="Bajos costos" :icono="require('@/assets/curso/temas/tema1/tab1-ico2-a.svg')")
         .col-md-5
           h4 Bajos costos
-          p No siempre los problemas están asociados exclusivamente a los sobrecostos. En el otro extremo, los bajos costos podría indicar que 
+          p No siempre los problemas están asociados exclusivamente a los sobrecostos. En el otro extremo, los bajos costos podrían indicar que 
             strong no se está ejecutando correctamente el presupuesto del proyecto o alguna de las actividades no se está realizando.
           p Por lo tanto, al detectar un bajo costo se deben evaluar los avances del proyecto conforme a lo previsto en tiempo y recursos.
         .col-md-5
@@ -193,9 +193,9 @@
       h2 1.3 Control del riesgo 
 
     p.mb-4(data-aos="fade") La gestión del riesgo es una medida proactiva que #[b permite anticiparse a que una situación adversa ocurra e impida el cumplimiento a cabalidad del proyecto.] 
-      | En el plan de control de riesgos establecidos se monitorea acerca de su efectividad en la implementación para identificar que se esté logrando el efecto deseado.
+      | En el plan de control de riesgos establecidos, se monitorea acerca de su efectividad en la implementación para identificar que se esté logrando el efecto deseado.
 
-    p.mb-4(data-aos="fade") Por medio del seguimiento de los riesgos se verifica que las medidas de control, reduzcan al máximo los riesgos. Si por el contrario, los riesgos se han efectuado o han incrementado, e incluso han surgido nuevos riesgos, se deberán replantear nuevas estrategias para su control. Para tal fin se siguen estos pasos:
+    p.mb-4(data-aos="fade") Por medio del seguimiento de los riesgos, se verifica que las medidas de control, reduzcan al máximo los riesgos. Si por el contrario, los riesgos se han efectuado o han incrementado, e incluso han surgido nuevos riesgos, se deberán replantear nuevas estrategias para su control. Para tal fin, se siguen estos pasos:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-8
@@ -220,7 +220,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bloque.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Al referirse a una empresa que fabrica zapatos, el control de calidad tendría que avalar que el calzado cumpla con las especificaciones indicadas como peso, color, material, dimensiones, entre otros detalles establecidos en su fase de diseño. En el caso de las organizaciones deportivas, en estas se establecen, conforme a sus servicios, cuáles son sus #[b parámetros de control de calidad] como la #[b prestación del servicio] y el #[b cumplimiento de procedimientos] y #[b protocolos preestablecidos.] 
+            p.mb-0 Al referirse a una empresa que fabrica zapatos, el control de calidad tendría que avalar que el calzado cumpla con las especificaciones indicadas como peso, color, material, dimensiones, entre otros detalles establecidos en su fase de diseño. En el caso de las organizaciones deportivas, en estas se establecen, conforme a sus servicios, cuáles son sus #[b parámetros de control de calidad,] como la #[b prestación del servicio] y el #[b cumplimiento de procedimientos] y #[b protocolos preestablecidos.] 
 
     Separador
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -267,7 +267,7 @@
       .row.tarjeta.bg-acento-contenido2.p-4(titulo="Autoevaluación")
         .col-md-6
           h4 Autoevaluación
-          p Construida y ejecutada por personas que laboraron en el proyecto, en la que se identifican el cumplimiento de los objetivos, éxitos y aspectos por mejorar.
+          p Construida y ejecutada por personas que laboraron en el proyecto, en la que se identifica el cumplimiento de los objetivos, éxitos y aspectos por mejorar.
         .col-md-6
           img(src='@/assets/curso/temas/tema1/tema1-6-tab1.png', alt='Autoevaluación')
       .row.tarjeta.bg-acento-contenido2.p-4(titulo="Evaluación interna")

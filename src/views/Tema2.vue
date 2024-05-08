@@ -17,7 +17,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/tema2-img.png', alt='Plan de mejora')  
    
-    p.mb-4(data-aos="fade-down-left") Esto daría cumplimiento al principio de mejora continua en donde siempre en alguna fase, periodo, proceso o servicio, se encontrarán oportunidades las que deberán ser gestionadas para estar en continuo mejoramiento.
+    p.mb-4(data-aos="fade-down-left") Esto daría cumplimiento al principio de mejora continua, en donde siempre en alguna fase, periodo, proceso o servicio, se encontrarán oportunidades, las que deberán ser gestionadas para estar en continuo mejoramiento.
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-10
@@ -29,7 +29,7 @@
             p.mb-0 El 
               strong plan de mejora 
               | es un proceso que se utiliza para alcanzar la calidad total y mejora de las organizaciones de manera progresiva, y obtener resultados eficientes y eficaces. El punto clave del plan de mejora es 
-              strong conseguir una relación entre los procesos y el personal generando una sinergia que contribuya al progreso constante.
+              strong conseguir una relación entre los procesos y el personal, generando una sinergia que contribuya al progreso constante.
 
     p.mb-4(data-aos="fade") Para trabajar a partir de los planes de mejora, es importante reconocer cuáles son los componentes para generar su impacto:
 
@@ -67,7 +67,7 @@
                   p.mb-0 <b><em> What</em> (qué):</b> ¿Qué está pasando? 
                   p.mb-0 <b><em>When</em> (cuándo):</b> ¿Cuándo se está presentando?
                   p.mb-0 <b><em>Where</em> (dónde):</b> ¿Dónde se están viendo los problemas?
-                  p.mb-0 <b><em>Who</em> (quién):</b> ¿Quién le están sucediendo?
+                  p.mb-0 <b><em>Who</em> (quién):</b> ¿Quién tiene el problema?
                   p.mb-0 <b><em>Why</em> (por qué):</b> ¿Por qué sucede el problema?
                   p.mb-0 <b><em>How</em> (cómo):</b> ¿Cómo se diferencia el problema a la situación óptima?
                   p.mb-0 <b><em>How much</em> (cuántos):</b> ¿Cuántos problemas se presentan en el tiempo?, ¿cuánto cuesta?
